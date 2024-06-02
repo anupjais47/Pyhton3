@@ -1,0 +1,1 @@
+Employee.asst_manager(ss)
